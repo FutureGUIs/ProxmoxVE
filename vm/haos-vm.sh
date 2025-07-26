@@ -143,6 +143,8 @@ function check_root() {
 }
 
 function pve_check() {
+  clear
+  echo -e "\n${CROSS}${RD}Pve check${CL}\n"
 }
 
 function arch_check() {
