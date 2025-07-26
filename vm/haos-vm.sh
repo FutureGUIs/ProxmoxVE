@@ -143,7 +143,6 @@ function check_root() {
 }
 
 function pve_check() {
-
 }
 
 function arch_check() {
